@@ -31,7 +31,7 @@ D179B23F	&Cancel
 8620B88E	&Command
 11884194	&Commands
 7C25AB45	&Connect
-667DEC86	&Connection Type
+667DEC86	&Connection type
 BD7D0BCA	&Delete
 7ACC59D0	&Details
 8349C936	&Directory
@@ -87,7 +87,7 @@ F1A308E6	&Skip
 F8ADCA1E	&Start
 8D2E41E6	&Tools
 1F4A4235	&Update
-3A236703	&Username
+3A236703	&User name
 16F685A5	&Yes
 3B9FEFCB	(Auto-detect)
 3C3D0DD8	(Default)
@@ -136,7 +136,7 @@ C2F3561D	Address
 62BD9734	Advanced Settings
 C7CC9431	Advanced Transfer
 45F80A27	Advanced
-E94C5EA5	After login use Clear Command Channel
+E94C5EA5	After login use Clear Command Channel (CCC)
 021EE791	All files are transferred according to the priority list. If the file doesn't match it is transferred after in the original list order.
 BE159CB3	All nested files and folders will be deleted.
 9405528F	All nested sites will also be deleted.
@@ -172,7 +172,7 @@ E345EDC4	August
 9C2B5304	Authentication succeeded
 EC3FFB05	Authentication method not acceptable
 050E8E0F	Auto check for update, every
-830A585E	Auto expand Folders
+830A585E	Auto expand folders
 54DF3F31	Auto save queue on change
 DA7C7897	Auto save queue on exit
 021E781E	Auto size file list columns
@@ -181,7 +181,7 @@ DA7C7897	Auto save queue on exit
 E3001A98	Auto Transfer
 283A8BF7	Auto upload on change
 C6888AC4	Auto
-FB5CA236	Automatic File Transfers
+FB5CA236	Automatic file transfers
 67F42BB6	Automatically detect web proxy settings
 FAD876FB	Background (offline)
 F335B780	Background
@@ -193,7 +193,7 @@ D9C8FE66	Binary (image)
 C14CEC33	Binary
 DBC8C65D	Bind socket to IP
 75328C4F	bits
-D2483B4F	Blend with Windows theme
+D2483B4F	Blend with windows theme
 FA2343E3	Bookmarks
 C0596E41	Border
 5BE8962F	Both
@@ -367,7 +367,7 @@ DCA40ED6	Drag && Drop with Explorer
 746EDFC8	during the previou&s
 5040FDFD	Dynamic queue
 6ADD8CE5	E&xit
-4FF2844B	Email Notifications
+4FF2844B	Email notifications
 B4D6B4DC	Email notification failure.
 3B813ED6	Email notification timed out.
 DECC7BCC	Email Sent
@@ -448,7 +448,7 @@ DB1820C9	failed to negotiate key exchange algorithm
 A5D18948	Failed transfers
 9927A641	Failed
 EE263A5D	Failure
-205806AC	February
+B45449EA	February
 AD78FB31	Fi&nd what
 1A59408A	File &Associations
 0671F386	File &Extension
@@ -521,18 +521,18 @@ F252F3BE	Goto
 CDE0753B	Graph background
 C8842AD8	Graph
 7F6B3227	Grid lines
-C21629DF	Grid Style
+C21629DF	Grid style
 8E127609	Grid
 0B246085	Group folders on top
 C3C5607A	Group symbolic link folders under regular folders
 AC016BC1	Group
 30BCAC3D	GSSAPI Authentication not supported
-044A8A32	Hang Up Internet Connection
-D2A97E61	Hang Up then &Quit FlashFXP
-9A852E6E	Hang Up then Quit FlashFXP
-309E8EF9	Hang Up then Turn Off &Computer
-B16808AC	Hang Up then Turn Off Computer
-93D38466	Hang Up
+044A8A32	Hang up internet connection
+D2A97E61	Hang up then &Quit FlashFXP
+9A852E6E	Hang up then Quit FlashFXP
+309E8EF9	Hang up then turn off &computer
+B16808AC	Hang up then turn off computer
+93D38466	Hang up
 D1BFC387	has expired.
 280DA59A	Has not run
 825B0B84	Hi&bernate
@@ -554,7 +554,7 @@ A1EDE006	HTTP
 99037692	I Accept
 ABF16A50	I Decline
 2252DE32	Ident Request: %s  - UserID: %s
-A0546AF0	Ident user ID
+A0546AF0	Ident User ID
 C58F57B6	Ident
 7B1DD4C6	Identification Tags
 7C161A2B	Idle
@@ -570,8 +570,8 @@ FFDD0216	IF
 C42887BF	In Folder
 35086F9F	In Progress
 5FEC8E4E	in
-41B009C0	Include 'Quick Connect' sites in history
-F260BBC9	Include the Following Logs
+41B009C0	Include 'Quick Connect' sites in History
+F260BBC9	Include the following logs
 11B82087	Incomplete or Invalid Registration Key
 6BBB9E69	Info
 E9D6EC2A	Information Bar
@@ -595,14 +595,14 @@ A2FA1917	IP Lookup Error
 B999C3CF	January
 674620CD	July
 41711E00	June
-05D1DBC1	KB to Rollback on resumed downloads
+05D1DBC1	KB to rollback on resumed downloads
 813E1B6A	Keepalive command
 53D1F387	Keepalive Sent
 832BDC1E	Keepalives
 93F62EE1	Key exchange: %s. Session encryption: %s, MAC: %s, compression: %s.
 875235A7	Key format
 A4A334F0	Key Manager
-530145D5	Key Size
+530145D5	Key size
 3D615F71	Keyboard Authentication Requested
 AF09FA09	Keyboard Authentication, Password Sent.
 7A02E2C3	Keyboard
@@ -643,7 +643,7 @@ DFAF4C75	Listing directory
 2CCE0906	LiveUpdate is finding out which updates are available.
 4E75FBE2	Local Browser
 C35D06AB	Local file listing
-A3A63A2C	Local Path
+A3A63A2C	Local path
 4A17A7EC	Local
 43ECB862	Log Closed
 AB89FC4B	Log folder
@@ -663,7 +663,7 @@ EDE9958E	Mail Server Setup
 6C7B1BDF	Make Fol&der
 9B0A32DF	Make Folder Failure
 2D696A86	Making directory
-F098932C	Manual File Transfers
+F098932C	Manual file transfers
 BD88648B	Manual Get
 10DBBEC4	manual
 BF1796B3	March
@@ -678,7 +678,7 @@ DF5D6C0E	Mask
 D5D0CC9A	Maximum
 D23C54FF	May
 DD3795AD	Menu
-9B77608D	Minimize to system tray
+9B77608D	Minimize to System Tray
 D6232CD5	Minimum
 74B38638	minute(s)
 DEC3B67E	Modern Style
@@ -831,10 +831,10 @@ F3C35666	Purchase/Pricing Information
 4F812B18	Question
 EACF5B6E	Queue &Info
 6F9B3209	Queue A&s
-98EC5999	Queue complete
+98EC5999	Queue Complete
 9F5DF3B7	Queue deletion of selected object(s)?
 1D100A28	Queue file
-75756B1E	Queue list
+75756B1E	Queue List
 9D6C43A9	Queue Parent of Selected
 4222363C	Queue Selected
 1D516B11	Queue type
@@ -867,7 +867,7 @@ A68F2242	Register
 34DE7F5C	Registry
 A269638F	Reject
 24E884B5	Release Date
-02A8E4E6	Release Type
+02A8E4E6	Release type
 2B1AF52A	Remaining
 E666DD0F	Remark
 2303B355	Remember last used site in Site Manager
@@ -889,8 +889,8 @@ C503430A	Replace Certificate
 C3201DD9	Replace
 F89B45AD	Report a Bug
 1F03E048	Request file size/date prior to transfer
-D146BDC5	request rejected because SOCKS server can't connect to Ident service on the client
-B719780C	request rejected because the client program and Ident service report different user-ids
+D146BDC5	request rejected because SOCKS server can't connect to identd on the client
+B719780C	request rejected because the client program and identd report different user-ids
 A76FE24E	request rejected or failed
 D8328332	Requesting current directory
 09D41E74	Requesting IP Lookup from
@@ -948,7 +948,7 @@ B3A4845F	Save Filename As
 7FF438B9	Save site changes in Site Manager
 BA4BD2BB	Save to &File
 3822FC21	Saved
-A60BDC64	Scale Values
+A60BDC64	Scale values
 E963BE87	Scan Depth
 3DD0DCA1	Schedule At
 8E155B69	Schedule End
@@ -975,7 +975,7 @@ BE407B21	Select Folder
 20046587	Selective &Transfer
 2996B004	Selective transfer rule-set
 7CBB78C6	Selective Transfer Rules
-D5675819	Selective Transfer rule-set not found (%s)
+D5675819	Selective transfer rule-set not found (%s)
 47E01A7F	Send an email on error
 CF6EEE94	Send an email on success or error
 CE36EEDC	Send an email on success
@@ -983,7 +983,7 @@ C38D79AF	Send anti-idle keepalives
 55F9740F	Send NOOP command during transfer
 4FA688A9	Send NOOP during transfer
 074195F3	Send
-E3A7429C	Sending email notification
+E3A7429C	Sending email notifcation
 2A8059B8	Sending
 FAEE9371	Separately set File and Folder Attributes
 3C4A1F61	September
@@ -991,7 +991,7 @@ FAEE9371	Separately set File and Folder Attributes
 E4F80AF3	Server Certificate
 DED89590	Server Error
 D40F8855	Server File Search
-7FF2753B	Server Web root path
+7FF2753B	Server web root path
 5DC1D0C0	Server
 0B358232	Session status window line limit
 1FF9EC48	Session
@@ -1007,7 +1007,7 @@ C5762842	Set Password
 E4DC7934	Setup
 17050DD6	SFTP Connection Ready
 75F209CA	SFTP Encryption
-6CB37250	SFTP protocol detected, please change the connection type to SFTP
+6CB37250	SFTP protocol detected, Please change the 'Connection Type' to SFTP
 6E919A4D	&Graph
 00728AFF	&RAW Command Line
 83B24425	Show confirmation
@@ -1015,7 +1015,7 @@ E8277D8A	Show hidden files
 6CD4BC94	Shutdown
 F10A9D7B	Single connection layout mode can't be enabled while connected to a site.
 32659BF4	Single Connection Layout
-26854F5C	Site &Name
+26854F5C	Site &name
 615F19A9	Site does not support FEAT command
 26131F62	Site List
 F28AC1DA	Site Manager Security
@@ -1059,7 +1059,7 @@ E9E218E3	Stalled Transfers
 5EB87A8B	Start
 1DB6D85E	Started at
 6DE5C592	Starting
-BD316502	State or province
+BD316502	State or Province
 E7E9DDD1	Static queue
 AD8E88F2	Statistics
 985CBF91	Status Window
@@ -1109,7 +1109,7 @@ D16AC35D	The password you typed does not match.
 0ABBF603	The queue file does not change.
 E8492BCE	The queue file is updated. Removing successful transfers and marking failed transfers.
 51098C16	The registration key you entered was intended for an older version of FlashFXP.
-D09613DB	The server's host key does not match the one FlashFXP has saved for this server. This means that either the server administrator has changed the host key, the server presents different host keys under certain circumstances, or you have actually connected to another computer pretending to be the server.
+D09613DB	The server's host key does not match the one FlashFXP has saved for this server.  This means that either the server administrator has changed the host key, the server presents different host keys under certain circumstances, or you have actually connected to another computer pretending to be the server.
 835F444E	The text in the %s file has changed.
 07C84C46	THEN
 054524C2	There is already a file with the same name in this location.
@@ -1134,10 +1134,10 @@ B7422E46	You can purchase FlashFXP by clicking the 'Buy Now' button on the right
 3C5AA113	This version of FlashFXP requires a new license key. A new license key will be provided to you at no additional cost.
 7BC56C41	This will overwrite your current settings.
 B781F0FA	Thursday
-5965C024	Time &Zone
+5965C024	Time &zone
 D6FD9CC4	Time to live expired
 CFA6377B	Time
-DC16C188	Times
+DC16C188	times
 2727649D	Timestamp
 F00C11BD	Timezone offsets: Server: %d seconds. Local: %d seconds. Difference: %d seconds.
 4203F666	To
@@ -1174,7 +1174,7 @@ C8E1E1D4	Translate
 A9B2761E	Turn off fingerprint checking on data connection
 3F1D9DBF	Tutorial
 2CECF817	Type
-D55AA577	Unable to Connect to email server
+D55AA577	Unable to Connect to mail server
 17B9ECF4	Unable to Create Directory
 7C9A5F0B	Unable to Create Folder
 8673B645	Unable to create window.
@@ -1310,7 +1310,7 @@ C3893540	Please enter your password
 7CA25862	Random Colors
 F6BE2B07	Internal Editor
 879F31FE	Prompt to select program
-37EEF1B1	Network Friendly QoS
+37EEF1B1	Network friendly QoS
 F44C83D9	Aborted by user
 353BE5DB	Variable
 EB78CFF1	Description
@@ -1364,10 +1364,10 @@ AFD59F62	Can't send after socket shutdown
 A833BDF1	Host is down
 48BBF796	No route to Host
 B6EB2FA0	Network subsystem is unavailable
-EF0B93EB	Incompatible version of Winsock
+EF0B93EB	Incompatible version of winsock
 0D96874D	Successful WSAStartup not yet performed
 CCE7DB8A	Host not found
-8DFE8DB1	Non-authoritative Host not found
+8DFE8DB1	Non-authoritative host not found
 050BE2DD	Error Number
 4D8C7321	Contents
 F728F615	&View
@@ -1379,19 +1379,19 @@ A7E5A044	Association List
 64482978	Return to previous folder
 BF05766B	Turn off synchronized browsing
 0BD3A3A1	Stable
-797F314A	Beta and stable
+797F314A	Beta and Stable
 54408821	Synchronized Browsing
 A59D323A	Clear Folder Cache
 02CBA55D	Files and folders
 4B84F8D0	Files and folders separately
-E7B639CF	Change attributes of ####add colon###
+E7B639CF	Change attributes of
 E03C3457	Apply changes recursively to sub-folders and files
 626E7BD0	Save Entry
 EDE4F036	Task enabled
 10FC6F42	Calculating
 26F08C59	Can't create file %s
-40D370AE	Select the place where you want to move the selected item(s), click the OK button
-B78EA426	Show hidden files, folders or drives
+40D370AE	Select the place where you want to move the selected item(s), click the Ok button
+B78EA426	Show hidden files, folders, or drives
 624CFAB0	Please carefully examine the certificate to make sure the server can be trusted.
 7A97FA9D	Fingerprint
 060F7681	The certificate is valid
@@ -1470,7 +1470,7 @@ E8CCCDF5	Server login
 0F9C51FE	Proxy login
 240688BF	Create a custom file association to override the system default.
 4DA1E652	These default programs are used when a file has no defined association.
-82B3FFF5	FTP protocol detected, Please change the connection type to FTP
+82B3FFF5	FTP protocol detected, Please change the 'Connection Type' to FTP
 1B0CDEC8	Network Error
 729C73E6	Edit Bookmarks
 F40CCD04	Enable
@@ -1545,7 +1545,7 @@ A8DEA150	A backup of your current FlashFXP configuration will be created.
 4C47EA78	FlashFXP has created a backup of your current settings and site profiles.
 7B8CF8D1	This backup file can be used to restore FlashFXP should you remember the application password.
 ED8269DB	Compress log files
-724BAB1B	Use Compression
+724BAB1B	Use compression
 452E59D7	%s is password protected
 6D64A3EF	Waiting for command to complete
 3369C866	Command aborted by user
@@ -1584,3 +1584,4 @@ C7544115	Security warning: Secure connection required.
 A715E080	The connection attempt has been denied by the application's security policy.
 D69862C2	rejected: The Server Host Key has not been pre-approved or has changed.
 3D46E0EB	Command line switches
+999E5A79	The task entry is missing from Windows Task Scheduler and will not run.
