@@ -24,7 +24,7 @@ D0F15464	%s negotiation successful...
 5809C1D1	&All
 07006042	&Anonymous
 DAFB138E	&Apply
-180D73C1	&between
+180D73C1	&Between
 D0B05227	&Buy Now
 D179B23F	&Cancel
 74D51E55	&Close
@@ -37,7 +37,7 @@ BD7D0BCA	&Delete
 8349C936	&Directory
 8A0C868A	&Disconnect Site(s)
 3F22A401	&Do not follow folder links
-80641891	&during the previous
+80641891	&During the previous
 EF712EA9	&Enter Site Name
 C5E361D9	&Export
 854A6B8B	&File
@@ -89,7 +89,7 @@ F8ADCA1E	&Start
 1F4A4235	&Update
 3A236703	&User name
 16F685A5	&Yes
-3B9FEFCB	(Auto-detect)
+3B9FEFCB	Auto-detect
 3C3D0DD8	(Default)
 3634D904	(Global)
 E91888F3	(Hard abort)
@@ -193,7 +193,7 @@ D9C8FE66	Binary (image)
 C14CEC33	Binary
 DBC8C65D	Bind socket to IP
 75328C4F	bits
-D2483B4F	Blend with windows theme
+D2483B4F	Blend with Windows theme
 FA2343E3	Bookmarks
 C0596E41	Border
 5BE8962F	Both
@@ -364,7 +364,7 @@ B6557F23	Downloading
 DCA40ED6	Drag && Drop with Explorer
 8390F2FF	Drag && Drop
 7F29E296	Duration
-746EDFC8	during the previou&s
+746EDFC8	During the previou&s
 5040FDFD	Dynamic queue
 6ADD8CE5	E&xit
 4FF2844B	Email notifications
@@ -497,7 +497,7 @@ B71BF20B	FlashFXP will cease to function in %d days unless purchased.
 AA48584E	Folder Bookmarks
 0F075BC2	Folder Cache
 767104DA	Folder not found!
-F38D2F3E	Folder tree
+F38D2F3E	Folder Tree
 EB0E0CFB	Folder
 63D7FE13	Folders only
 318AEA93	Folders
@@ -527,12 +527,12 @@ C21629DF	Grid style
 C3C5607A	Group symbolic link folders under regular folders
 AC016BC1	Group
 30BCAC3D	GSSAPI Authentication not supported
-044A8A32	Hang up internet connection
-D2A97E61	Hang up then &Quit FlashFXP
-9A852E6E	Hang up then Quit FlashFXP
-309E8EF9	Hang up then turn off &computer
-B16808AC	Hang up then turn off computer
-93D38466	Hang up
+044A8A32	Hang Up Internet Connection
+D2A97E61	Hang Up then &Quit FlashFXP
+9A852E6E	Hang Up then Quit FlashFXP
+309E8EF9	Hang Up then Turn Off &Computer
+B16808AC	Hang Up then Turn Off Computer
+93D38466	Hang Up
 D1BFC387	has expired.
 280DA59A	Has not run
 825B0B84	Hi&bernate
@@ -570,8 +570,8 @@ FFDD0216	IF
 C42887BF	In Folder
 35086F9F	In Progress
 5FEC8E4E	in
-41B009C0	Include 'Quick Connect' sites in History
-F260BBC9	Include the following logs
+41B009C0	Include Quick Connect sites in history
+F260BBC9	Include the Following Logs
 11B82087	Incomplete or Invalid Registration Key
 6BBB9E69	Info
 E9D6EC2A	Information Bar
@@ -643,11 +643,11 @@ DFAF4C75	Listing directory
 2CCE0906	LiveUpdate is finding out which updates are available.
 4E75FBE2	Local Browser
 C35D06AB	Local file listing
-A3A63A2C	Local path
+A3A63A2C	Local Path
 4A17A7EC	Local
 43ECB862	Log Closed
 AB89FC4B	Log folder
-522AA75C	Log off computer
+522AA75C	Log Off Computer
 EA7DD2DD	Log Opened
 30AD7EEF	Logged off
 F99998B1	Logging in
@@ -753,7 +753,7 @@ FBC596DD	not supported by all servers
 D736D92D	OK
 45EFB334	older
 28449ED3	On &Transfer Complete
-76F32F7C	On transfer complete
+76F32F7C	On Transfer Complete
 9C320D6A	On
 8C7C21DF	One Way with Delete
 D0FD488C	One Way
@@ -763,7 +763,7 @@ D0FD488C	One Way
 44CBC7BE	Only while connected
 40EB9C6E	Only
 F71EC315	Open Log Folder
-06EBF8F0	Open 'Site Manager' on startup
+06EBF8F0	Open site manager on startup
 F148581A	Open source and target folders
 21656A82	Open source folder
 9E90A8D4	Open target folder
@@ -873,7 +873,7 @@ E666DD0F	Remark
 2303B355	Remember last used site in Site Manager
 68349F66	Remote Edit Upload Complete
 5B58EC0C	Remote file listing
-D3817021	Remote path
+D3817021	Remote Path
 5D1A7A84	Remote
 0F8D551A	Remove empty folder on upload failure
 B502C7FE	Remove failed transfers from queue
@@ -949,7 +949,7 @@ B3A4845F	Save Filename As
 BA4BD2BB	Save to &File
 3822FC21	Saved
 A60BDC64	Scale values
-E963BE87	Scan Depth
+E963BE87	Scan depth
 3DD0DCA1	Schedule At
 8E155B69	Schedule End
 0FB96403	Schedule Running
@@ -983,7 +983,7 @@ C38D79AF	Send anti-idle keepalives
 55F9740F	Send NOOP command during transfer
 4FA688A9	Send NOOP during transfer
 074195F3	Send
-E3A7429C	Sending email notifcation
+E3A7429C	Sending email notification
 2A8059B8	Sending
 FAEE9371	Separately set File and Folder Attributes
 3C4A1F61	September
@@ -1007,7 +1007,7 @@ C5762842	Set Password
 E4DC7934	Setup
 17050DD6	SFTP Connection Ready
 75F209CA	SFTP Encryption
-6CB37250	SFTP protocol detected, Please change the 'Connection Type' to SFTP
+6CB37250	SFTP protocol detected, Please change the Connection Type to SFTP
 6E919A4D	&Graph
 00728AFF	&RAW Command Line
 83B24425	Show confirmation
@@ -1129,7 +1129,7 @@ A53D8B31	This name will show in the credits for your work.
 4B656E80	This registration key has been disabled.
 A849D503	You can freely use this evaluation version for %d days.
 64F8D5AA	If you are a home user, you can use your registration on up to four computers.
-B7422E46	You can purchase FlashFXP by clicking the 'Buy Now' button on the right.
+B7422E46	You can purchase FlashFXP by clicking the Buy Now button on the right.
 217545F5	Your trial period has expired.
 3C5AA113	This version of FlashFXP requires a new license key. A new license key will be provided to you at no additional cost.
 7BC56C41	This will overwrite your current settings.
@@ -1154,7 +1154,7 @@ C25B2396	Total Sites
 0888A1E1	Transfer Error
 6ED1652E	Transfer Failed
 5C10184C	Transfer graph
-A6EC3966	Transfer in progress, Exit anyways?
+A6EC3966	Transfer in progress, Exit anyway?
 A352FFA8	Transfer Incomplete
 C7F1F81C	Transfer Mode
 40D798E8	Transfer Progressbar
@@ -1189,7 +1189,7 @@ BD25671A	Unable to open specified file.
 BC607D0F	Unable to open
 53A227B5	Unable to restore backup, file error permission denied.
 D20841FF	Unable to search while a transfer is in progress.
-84CD0F7E	Unable to set Permission %d on '%s', [%s]
+84CD0F7E	Unable to set permission %d on '%s', [%s]
 6F80BB0D	Unable to start FlashFXP.
 97A9AD2A	Unable to write to file, disk full?
 3081E970	Under queue
@@ -1255,7 +1255,7 @@ ED6B49C8	Welcome Message
 7FE01AD7	When a pattern matches a file or folder name that entry becomes highlighted in the selected color.
 6E6A8A04	When asked, wait specified number of seconds, then overwrite
 DA7CB629	When to skip
-2AFF02FF	will now hang up your internet connection.
+2AFF02FF	will now hang up your Internet connection.
 1BE4BA55	will now log off your computer.
 1F317D3A	will now log you off the connected site(s).
 B858F1B8	will now put your computer into a hibernation mode.
@@ -1271,7 +1271,7 @@ EBC88318	X.509 certificate for FTP
 4DAA7349	Yes
 82CEE20E	You are eligible for an upgraded key without any additional purchase.
 8D786166	You are on day %d of your %d day evaluation period.
-4679425A	You can't download files to 'My Computer'
+4679425A	You can't download files to My Computer
 7303757C	You can't undo this operation!
 62F233E4	You do not have the privileges to shut the system down
 A66702FD	You must add at least one file extension
@@ -1364,7 +1364,7 @@ AFD59F62	Can't send after socket shutdown
 A833BDF1	Host is down
 48BBF796	No route to Host
 B6EB2FA0	Network subsystem is unavailable
-EF0B93EB	Incompatible version of winsock
+EF0B93EB	Incompatible version of Winsock
 0D96874D	Successful WSAStartup not yet performed
 CCE7DB8A	Host not found
 8DFE8DB1	Non-authoritative host not found
@@ -1470,7 +1470,7 @@ E8CCCDF5	Server login
 0F9C51FE	Proxy login
 240688BF	Create a custom file association to override the system default.
 4DA1E652	These default programs are used when a file has no defined association.
-82B3FFF5	FTP protocol detected, Please change the 'Connection Type' to FTP
+82B3FFF5	FTP protocol detected, Please change the Connection Type to FTP
 1B0CDEC8	Network Error
 729C73E6	Edit Bookmarks
 F40CCD04	Enable
@@ -1479,7 +1479,7 @@ C7BA1833	No change
 E0CD2EC6	Unknown or invalid server reply
 5A481652	Automatically switching '%s' to '%s'
 7CE599CD	&Edit and Upload
-3B1794E6	Include 'Edit and Upload' in edit history
+3B1794E6	Include Edit and Upload in edit history
 4008DE0B	&Enable strong private key protection.
 550429B2	You will be prompted every time the private key is used by FlashFXP if you enable this option.
 5E7740B4	&Mark this key as exportable.
@@ -1582,6 +1582,17 @@ C7521C27	Directory changed to: %s
 BD249ECE	Create a backup copy of original file on upload
 C7544115	Security warning: Secure connection required.
 A715E080	The connection attempt has been denied by the application's security policy.
-D69862C2	rejected: The Server Host Key has not been pre-approved or has changed.
+D69862C2	rejected: The server host key has not been pre-approved or has changed.
 3D46E0EB	Command line switches
 999E5A79	The task entry is missing from Windows Task Scheduler and will not run.
+13D2EC69	Transfer summary
+39E5050E	File transfer rules
+BDD94064	Minimize to system tray
+619A3BCF	Queue complete
+1BE84588	Mail server
+03949512	Local path
+73B3DF1F	Remote path
+AD36EA77	Synchronized browsing
+A1267FD0	On transfer complete
+FCA75F10	Drag && drop
+53BF8000	Folder tree
