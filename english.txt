@@ -94,7 +94,7 @@ F8ADCA1E	&Start
 3634D904	(Global)
 E91888F3	(Hard abort)
 070BE925	(None)
-3227F264	(Nothing)
+3227F264	Nothing
 68F9EE27	(Password is optional)
 C573F378	(Retry attempt #%d in %d seconds)
 F791D999	(Soft abort)
@@ -1129,7 +1129,7 @@ A53D8B31	This name will show in the credits for your work.
 4B656E80	This registration key has been disabled.
 A849D503	You can freely use this evaluation version for %d days.
 64F8D5AA	If you are a home user, you can use your registration on up to four computers.
-B7422E46	You can purchase FlashFXP by clicking the Buy Now button on the right.
+B7422E46	You can purchase FlashFXP by clicking the 'Buy Now' button on the right.
 217545F5	Your trial period has expired.
 3C5AA113	This version of FlashFXP requires a new license key. A new license key will be provided to you at no additional cost.
 7BC56C41	This will overwrite your current settings.
@@ -1154,7 +1154,7 @@ C25B2396	Total Sites
 0888A1E1	Transfer Error
 6ED1652E	Transfer Failed
 5C10184C	Transfer graph
-A6EC3966	Transfer in progress, Exit anyway?
+A6EC3966	Transfer in progress, Are you sure you want to exit FlashFXP?
 A352FFA8	Transfer Incomplete
 C7F1F81C	Transfer Mode
 40D798E8	Transfer Progressbar
@@ -1582,7 +1582,7 @@ C7521C27	Directory changed to: %s
 BD249ECE	Create a backup copy of original file on upload
 C7544115	Security warning: Secure connection required.
 A715E080	The connection attempt has been denied by the application's security policy.
-D69862C2	rejected: The server host key has not been pre-approved or has changed.
+D69862C2	rejected: the server host key has not been pre-approved or has changed.
 3D46E0EB	Command line switches
 999E5A79	The task entry is missing from Windows Task Scheduler and will not run.
 13D2EC69	Transfer summary
